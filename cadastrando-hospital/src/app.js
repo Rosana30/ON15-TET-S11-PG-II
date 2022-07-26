@@ -25,3 +25,6 @@ app.use("/pacientes", pacientesRota)
 
 // exportar o modulo app
 module.exports = app
+
+
+
